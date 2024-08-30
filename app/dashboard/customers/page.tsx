@@ -1,5 +1,3 @@
-export default function Customers(){
-    return (
-        <h1>Customers - clientii nostrii</h1>
-    )
+export default function Page(){
+  return <h1>Hello Custemers</h1>
 }
